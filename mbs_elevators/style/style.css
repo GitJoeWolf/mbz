@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    background-image: url(tech.jpg);
+    overflow-y: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contain{
+    height: 750px;
+    width: 100%;
+    background-color: rgba(95, 95, 95, 0.637);
+    padding-top: 263px;
+    overflow-y: hidden;
+}
+.login{
+    height: 400px;
+    width: 400px;
+    background-color: rgba(24, 24, 24, 0.753);
+    margin: auto;
+    border-radius: 15px;
+}
+.all{
+    text-align: center;
+    padding-top: 65px;
+}
+.data{
+    margin: auto;
+}
+label{
+    font-size: 20px;
+    margin: 50px;
+    color: aliceblue;
+    font-weight: lighter;
+}
+input{
+    width: 300px;
+    height: 45px;
+    margin: 10px;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+}
+.log1{
+    width: 300px;
+    height: 45px;
+    margin: 10px;
+    color: aliceblue;
+    background-color: red;
+    width: 310px;
+    border: none;
+    font-size: 25px;
+}

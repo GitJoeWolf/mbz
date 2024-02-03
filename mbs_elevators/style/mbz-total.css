@@ -1,0 +1,24 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Cairo", sans-serif;
+}
+
+h1 {
+    display: inline-block;
+    margin: 20px;
+}
+::selection {
+    background-color: black;
+    color: gold;
+}
+.overall {
+    width: 100%;
+    height: 1500px;
+    background-color: #323232;
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    position: fixed;
+    display: none;
+}

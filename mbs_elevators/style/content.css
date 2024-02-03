@@ -1,0 +1,25 @@
+.content {
+    background-color: #ffffff;
+    width: 100%;
+    min-height: 1000px;
+    padding: 1px 0;
+}
+.company-start {
+    width: 99%;
+    margin: auto;
+}
+.presention {
+    width: 97%;
+    height: 700px;
+    background-color: #ffffff;
+    margin: 50px auto;
+    direction: rtl;
+    box-shadow: 0 0 17px 0px #97979769;
+}
+.explain {
+    height: 100%;
+    width: 600px;
+    margin: 0;
+    background-color: #ffffff;
+    border-left: 10px solid black;
+}
